@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning `diffusion model`, `modular deep learning`, `part assembly`.
+- 📫 How to reach me: zhangruiyuan@zju.edu.cn, zhangruiyuan.0122@gamil.com.
+- 📱 15033358021 
