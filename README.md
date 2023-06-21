@@ -1,6 +1,6 @@
+
 <center>
-     <img src="assets/zjz_1.jpg" style="float:right;z-index:100;" width="150px"/>
-     <h1>张瑞元</h1>
+     <h1>Hi, I'm Ruiyuan Zhang (张瑞元). <img src="assets/zjz_1.jpg" style="float:right;z-index:100;" width="150px"/></h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="15px">
@@ -24,7 +24,6 @@
      </div>
  </center>
 
-
  ## <img src="assets/info-circle-solid.svg" width="20px"> 个人信息 
 
  - 男，1999年1月22号出生，来自河北省邢台市
@@ -47,7 +46,7 @@
 
 ## <img src="assets/project-diagram-solid.svg" width="20px"> 科研成果
 
-- sumitting...
+- submitted and waiting for reviewing in NIPS2023 and BMVC2023 ...
 
 
 ## <img src="assets/tools-solid.svg" width="20px"> 曾获奖项及荣誉
