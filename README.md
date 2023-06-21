@@ -28,7 +28,6 @@
 
  - 男，1999年1月22号出生，来自河北省邢台市
  - 研究方向：[Part Assembly](https://proceedings.neurips.cc/paper/2020/file/45fbc6d3e05ebd93369ce542e8f2322d-Paper.pdf)，[Score-based Modeling](https://arxiv.org/abs/2011.13456)，[Shared Global Workspace](https://arxiv.org/abs/2103.01197)，[Modular Deep Learning](https://arxiv.org/abs/2302.11529), Blockchain
- - 预计稳定实习时间：5 ~ 10月（学校活动需请假，至多3日/月）
 
 ## <img src="assets/graduation-cap-solid.svg" width="20px"> 教育经历
 
