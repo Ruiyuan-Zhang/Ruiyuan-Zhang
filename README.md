@@ -45,7 +45,8 @@
 
 ## <img src="assets/project-diagram-solid.svg" width="20px"> 科研成果
 
-- submitted and waiting for reviewing in NIPS2023 and BMVC2023 ...
+- BMVC2023(3作)
+- submitted and waiting for reviewing in AAAI2023 ...
 
 
 ## <img src="assets/tools-solid.svg" width="20px"> 曾获奖项及荣誉
