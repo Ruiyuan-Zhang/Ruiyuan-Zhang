@@ -48,6 +48,7 @@
 - BMVC2023(3作), Score-PA: Score-based 3D Part Assembly
      - In this paper, we propose a Score-based Diverse Part Assembly framework (SDPA) containing a Conditional Score-based Graph Neural Network (CSGNN) for diverse 3D part assembly.
 - submitted and waiting for reviewing in AAAI2023 ...
+- submitting to CVPR 2024
 
 
 ## <img src="assets/tools-solid.svg" width="20px"> 曾获奖项及荣誉
