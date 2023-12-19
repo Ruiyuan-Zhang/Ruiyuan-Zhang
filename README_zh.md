@@ -46,10 +46,11 @@
 ## <img src="assets/project-diagram-solid.svg" width="20px"> 科研成果
 
 - BMVC2023(3作), Score-PA: Score-based 3D Part Assembly
-     - In this paper, we propose a Score-based Diverse Part Assembly framework (SDPA) containing a Conditional Score-based Graph Neural Network (CSGNN) for diverse 3D part assembly.
+     - 在这篇工作中，我们利用了Score Based方法，提高了拼装零件任务的多样性。我们的方法相较于其他的方法，能够更好地拼装出更加合理形状的物品。
 - AAAI2024(1作), Scalable Geometric Fracture Assembly via Co-creation Space among Assemblers
-     - In this paper, we focus on `multi parts issue` within assembly task.
-- submitting to CVPR 2024
+     - 在这篇工作中，我们致力于解决拼装零件任务中同时处理的零件数量变多的情况，我们采用了一个共享空间的认知科学理论来解决这一问题，取得了不错的效果。
+- 我们在CVPR 2024中提交了我们近期的工作。
+- 目前，我们仍致力于研究联邦学习和NeRF。正在进行2项工作，准备投递到ECCV 2024。
 
 
 ## <img src="assets/tools-solid.svg" width="20px"> 曾获奖项及荣誉
@@ -70,7 +71,7 @@
 
 ## 其他
 
-- 入党积极分子，拥护党的领导，热爱国家，正在努力为社会主义发展奉献自己一份力量
+- 目前我已成为发展对象，我坚决拥护党的领导，热爱我的国家，正在努力为新时代中国特色社会主义发展奉献自己一份力量
 - 热爱生活，喜欢运动（2021年软件学院运动会1000米第四名），有健身习惯但似乎没啥成果，爱好羽毛球（2023年计算机学院校友会羽毛球团体赛第四名，被大佬带的）
 - 本科及研究生期间，均有参加学生会并有组织活动经验，如计算机学院博士生创新成果分享会
 - 闲暇时间也会接一些网站开发的私活；有过合作创业经历，但未成功
