@@ -1,6 +1,6 @@
 
 <div align=center>
-     <h1>Hi, I'm Ruiyuan Zhang (张瑞元). <img src="assets/zjz_1.jpg" align=right width="150px"/></h1>
+     <h1>Hi, I'm Ruiyuan Zhang (张瑞元). <img src="assets/zjz_1.jpg" align=right width="200px"/></h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="15px">
