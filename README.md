@@ -1,6 +1,6 @@
 <html>
 <div align=center>
-     <h1>Hi, I'm Ruiyuan Zhang. <img src="assets/zjz_1.jpg" align=right width="250px"/></h1>
+     <h1>Hi, I'm Ruiyuan Zhang. <img src="assets/zjz_1.jpg" align=right width="200px"/></h1>
      <div>
          <span>
              15033358021 📱
