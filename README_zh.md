@@ -1,6 +1,6 @@
 
-<center>
-     <h1>Hi, I'm Ruiyuan Zhang (张瑞元). <img src="assets/zjz_1.jpg" style="float:right;z-index:100;" width="150px"/></h1>
+<div align=center>
+     <h1>Hi, I'm Ruiyuan Zhang (张瑞元). <img src="assets/zjz_1.jpg" align=right width="150px"/></h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="15px">
@@ -22,7 +22,7 @@
              <a href="https://blog.csdn.net/qq_36160277">My Blog</a>
          </span>
      </div>
- </center>
+ </div>
 
  ## <img src="assets/info-circle-solid.svg" width="20px"> 个人信息 
 
