@@ -1,44 +1,42 @@
 <html>
-<div style="display: flex; justify-content: center; align-items: center;">
-     <h1>Hi, I'm Ruiyuan Zhang. <img src="assets/zjz_1.jpg" style="float:right;z-index:100;" width="150px"/></h1>
+<div align=center>
+     <h1>Hi, I'm Ruiyuan Zhang. <img src="assets/zjz_1.jpg" align=right width="250px"/></h1>
      <div>
          <span>
-             <img src="assets/phone-solid.svg" width="15px">
-             15033358021
+             15033358021 📱
          </span>
          ·
          <span>
-             <img src="assets/envelope-solid.svg" width="15px">
-             zhangruiyuan@zju.edu.cn
+             zhangruiyuan@zju.edu.cn 📧
          </span>
          ·
          <span>
-             <img src="assets/github-brands.svg" width="15px">
-             <a href=https://github.com/Ruiyuan-Zhang>My Github</a>
+             January 22, 1999 🎂
          </span>
          ·
          <span>
-             <img src="assets/rss-solid.svg" width="15px">
-             <a href="https://blog.csdn.net/qq_36160277">My Blog</a>
+             Hebei Province 📍
          </span>
      </div>
  </div>
- </html>
+</html>
+<br>
 
 > I am planning to apply for a CSC scholarship for my overseas education. Should you come across any appropriate opportunities, I would greatly appreciate it if you could contact me. [中文简历](README_zh.md).
 
 
+## Education 🎓
 
- ## Personal Information 
+- **PhD in AI, College of Computer Science and Technology, Zhejiang University**  
+  Supervised by [Professor Chao Wu](https://wuchaozju.github.io/)  
+  Sep 2021 - Present 📚
 
- - Male, born on January 22, 1999, from Xingtai, Hebei Province
- - Research areas: [Part Assembly](https://proceedings.neurips.cc/paper/2020/file/45fbc6d3e05ebd93369ce542e8f2322d-Paper.pdf), [Score-based Modeling](https://arxiv.org/abs/2011.13456), [Shared Global Workspace](https://arxiv.org/abs/2103.01197), [Modular Deep Learning](https://arxiv.org/abs/2302.11529), Blockchain
+- **Master in Software Engineering, Zhejiang University**  
+  Supervised by [Professor Ketin Yin](https://person.zju.edu.cn/ykt)  
+  Sep 2020 - Jul 2021 🎓
 
-## Education
-
-- PhD, Zhejiang University, College of Computer Science and Technology, AI major,  supervised by Professor [Chao Wu](https://wuchaozju.github.io/), Sep 2021 - Present
-- Master, Zhejiang University, Software Engineering major, supervised by Professor [Ketin Yin](https://person.zju.edu.cn/ykt), Sep 2020 - Jul 2021
-- Bachelor, Yanshan University, Software Engineering major, Sep 2016 - Jul 2020
+- **Bachelor in Software Engineering, Yanshan University**  
+  Sep 2016 - Jul 2020 📘
 
 ## Internship Experience
 
