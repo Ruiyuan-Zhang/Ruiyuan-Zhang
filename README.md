@@ -79,7 +79,8 @@
 
 ## Other
 
-- As a Probationary Member of the Communist Party of China, I am firmly committed to the Party's leadership, deeply love my country, and am actively contributing to the development of socialism.
-- Enjoys life, likes sports (4th in 1000m at the 2021 Software College Sports Meeting), has a fitness habit but seems to have little success, enjoys badminton (4th in the 2023 Computer Science College Alumni Association Badminton Team Competition, carried by the pros)
-- Participated in the student union and organized activities during undergraduate and postgraduate studies, such as the Computer Science College PhD Innovation Achievement Sharing Meeting
+- **Communist Party of China** - Probationary Member. Dedicated to the Party's leadership, patriotic, and committed to contributing to socialism. 🌟
+- **Interests and Sports** - Enjoys an active lifestyle. Achieved 4th place in 1000m at the 2021 Software College Sports Meeting 🏃, and 4th in the 2023 Computer Science College Alumni Association Badminton Team Competition 🏸. Regularly engages in fitness 💪.
+- **Student Union Involvement** - Active participation in student union and organized events during undergraduate and postgraduate studies, including the Computer Science College PhD Innovation Achievement Sharing Meeting 🎓.
+
 ---
