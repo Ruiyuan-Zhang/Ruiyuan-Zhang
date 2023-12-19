@@ -25,7 +25,7 @@
 > I am planning to apply for a CSC scholarship for my overseas education. Should you come across any appropriate opportunities, I would greatly appreciate it if you could contact me. [中文简历](README_zh.md).
 
 
-## Education 🎓
+## I. Education 
 
 - **PhD in AI, College of Computer Science and Technology, Zhejiang University**  
   Supervised by [Professor Chao Wu](https://wuchaozju.github.io/)  
@@ -39,16 +39,7 @@
   Sep 2016 - Jul 2020 📘
 
 
-## Internship Experience 
-
-- **[Hyperchain](https://www.hyperchain.cn/about/company)**, `Blockchain technology and application research`,  **Nov 2019 - Mar 2021** 🖥
-   - **Patent 1**: [A Trusted Permission Management System and Method for Consortium Blockchain](https://www.patent9.com/patent/202110017945.4.html) (Application No. 2021100179454) 📜
-   - **Patent 2**: [Privacy Protection Method for Consortium Blockchain based on Group Signature and CA Multi-party Authentication](https://www.izhuanli.com/patentservice/CN202011286074.8.html) (Application No. 2020112860748) 📜
-   - **Project 1**: [Market Supervision Chain](https://www.wetrustchain.com/), Backend and Evidence Collection Development 🌐
-   - **Project 2**: [City Data · Trading Platform](https://mp.weixin.qq.com/s/Q_NAalSFYQX5B2HQZRcoVw), Frontend Development 🌐
-
-
-## Research Achievements 📚
+## II. Research Achievements 
 
 - **BMVC 2023 (3rd author)**, [Score-PA: Score-based 3D Part Assembly](https://arxiv.org/abs/2309.04220) 📄
   - Focus: Diverse 3D part assembly.  
@@ -60,7 +51,15 @@
 - **ECCV 2024 (1st author)**, Coding... 💻
 - **ECCV 2024 (1st author)**, Coding... 💻
 
-## Awards and Honors 🏆
+## III. Internship Experience 
+
+- **[Hyperchain](https://www.hyperchain.cn/about/company)**, `Blockchain technology and application research`,  **Nov 2019 - Mar 2021** 🖥
+   - **Patent 1**: [A Trusted Permission Management System and Method for Consortium Blockchain](https://www.patent9.com/patent/202110017945.4.html) (Application No. 2021100179454) 📜
+   - **Patent 2**: [Privacy Protection Method for Consortium Blockchain based on Group Signature and CA Multi-party Authentication](https://www.izhuanli.com/patentservice/CN202011286074.8.html) (Application No. 2020112860748) 📜
+   - **Project 1**: [Market Supervision Chain](https://www.wetrustchain.com/), Backend and Evidence Collection Development 🌐
+   - **Project 2**: [City Data · Trading Platform](https://mp.weixin.qq.com/s/Q_NAalSFYQX5B2HQZRcoVw), Frontend Development 🌐
+     
+## IV. Awards and Honors 
 
 | Level | Award/Honor | Year |
 | :-: | :- | :-: |
@@ -77,7 +76,7 @@
 
 
 
-## Other
+## V. Others
 
 - **Communist Party of China** - Probationary Member. Dedicated to the Party's leadership, patriotic, and committed to contributing to socialism. 🌟
 - **Interests and Sports** - Enjoys an active lifestyle. Achieved 4th place in 1000m at the 2021 Software College Sports Meeting 🏃, and 4th in the 2023 Computer Science College Alumni Association Badminton Team Competition 🏸. Regularly engages in fitness 💪.
