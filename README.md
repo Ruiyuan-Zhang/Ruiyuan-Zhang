@@ -40,13 +40,38 @@
 
 
 ## II. Research Achievements 
+<div>
+     <div>
+          <img src="https://github.com/Ruiyuan-Zhang/Ruiyuan-Zhang/assets/71813586/4b71b676-45fd-4371-bfdc-ae892260efbe" align="left" height="90px" />
+          <div>
+               <sup><strong>Score-PA: Score-based 3D Part Assembly</strong></sup><br>
+               <sup>Junfeng Cheng, Mingdong Wu, Ruiyuan Zhang, Guanqi Zhan, Chao Wu, Hao Dong</sup><br>
+               <sup>The British Machine Vision Conference (BMVC) 2023</sup><br>
+               <sup><a href="https://arxiv.org/abs/2309.04220">paper</a> / <a href="https://github.com/j-f-cheng/score-pa_score-based-3d-part-assembly">supp/project</a></sup>
+          </div>
+     </div>
+     <br>
+     <div>
+          <img src="https://github.com/Ruiyuan-Zhang/Ruiyuan-Zhang/assets/71813586/b1b85281-8ed8-4b19-bbdb-e5f6dad186ee" align="left" height="90px" />
+          <div>
+               <sup><strong>Scalable Geometric Fracture Assembly via Co-creation Space among Assemblers</strong></sup><br>
+               <sup>Ruiyuan Zhang, Jiaxiang Liu, Zexi Li, Hao Dong, Jie Fu, Chao Wu</sup><br>
+               <sup>AAAI Conference on Artificial Intelligence (AAAI) 2024</sup><br>
+               <sup><a href="https://arxiv.org/abs/2312.12340">paper</a> / <a href="https://github.com/Ruiyuan-Zhang/CCS">supp/project</a></sup>
+          </div>
+     </div>
+</div>
+![1c1f4a71f1eaf335bc50a461151c8cd](https://github.com/Ruiyuan-Zhang/Ruiyuan-Zhang/assets/71813586/843a5b1e-7c4c-48af-961a-e86336ceab03)
+
+
+
 
 - **BMVC 2023 (3rd author)**, [Score-PA: Score-based 3D Part Assembly](https://arxiv.org/abs/2309.04220) 📄
   - Focus: Diverse 3D part assembly.  
-  - More Codes: [GitHub - Score-PA](https://github.com/j-f-cheng/score-pa_score-based-3d-part-assembly).
-- **AAAI 2024 (1st author)**, Scalable Geometric Fracture Assembly via Co-creation Space among Assemblers 📄
+  - Codes: [GitHub - Score-PA](https://github.com/j-f-cheng/score-pa_score-based-3d-part-assembly).
+- **AAAI 2024 (1st author)**, [Scalable Geometric Fracture Assembly via Co-creation Space among Assemblers](https://arxiv.org/abs/2312.12340) 📄
   - Focus: Multi parts issue within assembly task.  
-  - More Codes: [GitHub - CCS](https://github.com/Ruiyuan-Zhang/CCS).
+  - Codes: [GitHub - CCS](https://github.com/Ruiyuan-Zhang/CCS).
 - **CVPR 2024 (1st author)**, Submitted 📝
 - **ECCV 2024 (1st author)**, Coding... 💻
 - **ECCV 2024 (1st author)**, Coding... 💻
