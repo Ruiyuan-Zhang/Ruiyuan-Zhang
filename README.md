@@ -47,7 +47,7 @@
                <sup><strong>Score-PA: Score-based 3D Part Assembly</strong></sup><br>
                <sup>Junfeng Cheng, Mingdong Wu, Ruiyuan Zhang, Guanqi Zhan, Chao Wu, Hao Dong</sup><br>
                <sup>The British Machine Vision Conference (BMVC) 2023</sup><br>
-               <sup><a href="https://arxiv.org/abs/2309.04220">paper</a> / <a href="https://github.com/j-f-cheng/score-pa_score-based-3d-part-assembly">supp/project</a></sup>
+               <sup><a href="https://arxiv.org/abs/2309.04220">paper</a> / <a href="https://github.com/j-f-cheng/score-pa_score-based-3d-part-assembly">codes</a> / supp </sup>
           </div>
      </div>
      <br>
@@ -57,7 +57,7 @@
                <sup><strong>Scalable Geometric Fracture Assembly via Co-creation Space among Assemblers</strong></sup><br>
                <sup>Ruiyuan Zhang, Jiaxiang Liu, Zexi Li, Hao Dong, Jie Fu, Chao Wu</sup><br>
                <sup>AAAI Conference on Artificial Intelligence (AAAI) 2024</sup><br>
-               <sup><a href="https://arxiv.org/abs/2312.12340">paper</a> / <a href="https://github.com/Ruiyuan-Zhang/CCS">supp/project</a></sup>
+               <sup><a href="https://arxiv.org/abs/2312.12340">paper</a> / <a href="https://github.com/Ruiyuan-Zhang/CCS">codes</a> / supp </sup>
           </div>
      </div>
      <br>
@@ -67,7 +67,7 @@
                <sup><strong>[Submited] xxxx xxxx xxxx xxxx xxxx</strong></sup><br>
                <sup>Ruiyuan Zhang, Chao Wu</sup><br>
                <sup>The Conference on Computer Vision and Pattern Recognition (CVPR) 2024</sup><br>
-               <sup><a href="#">paper</a> / <a href="#">supp/project</a></sup>
+               <sup><a href="#">paper</a> / <a href="#">codes</a> / supp </sup>
           </div>
      </div>
      <br>
@@ -77,7 +77,7 @@
                <sup><strong>[Coding] xxxx xxxx xxxx xxxx xxxx</strong></sup><br>
                <sup>Ruiyuan Zhang, Chao Wu</sup><br>
                <sup>The European Conference on Computer Vision (ECCV) 2024</sup><br>
-               <sup><a href="#">paper</a> / <a href="#">supp/project</a></sup>
+               <sup><a href="#">paper</a> / <a href="#">codes</a> / supp </sup>
           </div>
      </div>
      <br>
@@ -87,7 +87,7 @@
                <sup><strong>[Coding] xxxx xxxx xxxx xxxx xxxx</strong></sup><br>
                <sup>Ruiyuan Zhang, Chao Wu</sup><br>
                <sup>The European Conference on Computer Vision (ECCV) 2024</sup><br>
-               <sup><a href="#">paper</a> / <a href="#">supp/project</a></sup>
+               <sup><a href="#">paper</a> / <a href="#">codes</a> / supp </sup>
           </div>
      </div>
 </div>
@@ -98,8 +98,8 @@
 - **[Hyperchain](https://www.hyperchain.cn/about/company)**, `Blockchain technology and application research`,  **Nov 2019 - Mar 2021** 🖥
    - **Patent 1**: [A Trusted Permission Management System and Method for Consortium Blockchain](https://www.patent9.com/patent/202110017945.4.html) (Application No. 2021100179454) 📜
    - **Patent 2**: [Privacy Protection Method for Consortium Blockchain based on Group Signature and CA Multi-party Authentication](https://www.izhuanli.com/patentservice/CN202011286074.8.html) (Application No. 2020112860748) 📜
-   - **Project 1**: [Market Supervision Chain](https://www.wetrustchain.com/), Backend and Evidence Collection Development 🌐
-   - **Project 2**: [City Data · Trading Platform](https://mp.weixin.qq.com/s/Q_NAalSFYQX5B2HQZRcoVw), Frontend Development 🌐
+   - **supp 1**: [Market Supervision Chain](https://www.wetrustchain.com/), Backend and Evidence Collection Development 🌐
+   - **supp 2**: [City Data · Trading Platform](https://mp.weixin.qq.com/s/Q_NAalSFYQX5B2HQZRcoVw), Frontend Development 🌐
      
 ## IV. Awards and Honors 
 
@@ -108,7 +108,7 @@
 | Computer Society | [CCF Software Capability Certification - 380 pts](https://blog.csdn.net/qq_36160277/article/details/82751577) (School Rank 1/600, National Top 0.49%) 🏅 | 2018 |
 | National | National E-commerce Challenge, Second Prize 🥈 | 2018 |
 | National | [“Zhihu Cup” CCF Programming Contest, National Third Prize](https://www.sohu.com/a/272943716_661672) 🥉 | 2018 |
-| National | National Undergraduate Innovation Project, Excellent Completion (Leader) 👏 | 2017 |
+| National | National Undergraduate Innovation supp, Excellent Completion (Leader) 👏 | 2017 |
 | National | ASC Student Supercomputer Challenge, Second Prize 🥈 | 2018 |
 | National | ACM ICPC Jiaozuo Station, Excellence Award 🏆 | 2018 |
 | National | [FinTechathon WeBank Tech Competition Top Ten](https://github.com/Ruiyuan-Zhang/baize) (Team Leader) 🔝 | 2021 |
