@@ -71,7 +71,7 @@
           </a>
           <div>
                <sup><strong>xxxx xxxx xxxx xxxx xxxx</strong></sup><br>
-               <sup>Ruiyuan Zhang, Chao Wu</sup><br>
+               <sup>Ruiyuan Zhang, Didi Zhu, Jiaxiang Liu, Jie Liu, Jie Fu, Yuchi Huo, Chao Wu</sup><br>
                <sup>[🕒 Submited] The Conference on Computer Vision and Pattern Recognition (CVPR) 2024</sup><br>
                <sup><a href="#" target="_blank">paper</a> / <a href="#" target="_blank">codes</a> / supp </sup>
           </div>
