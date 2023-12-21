@@ -115,16 +115,16 @@
      </div>
      <div>
          <div>
-              📜<sub><strong>Patent 1</strong>: <a href="https://www.patent9.com/patent/202110017945.4.html" target="_blank">A Trusted Permission Management System and Method for Consortium Blockchain</a> (Application No. 2021100179454) </sub>
+              <sub><strong>Patent 1</strong>: &nbsp;📜&nbsp;<a href="https://www.patent9.com/patent/202110017945.4.html" target="_blank">A Trusted Permission Management System and Method for Consortium Blockchain</a> (Application No. 2021100179454) </sub>
          </div>
          <div>
-              📜<sub><strong>Patent 2</strong>: <a href="https://www.izhuanli.com/patentservice/CN202011286074.8.html" target="_blank">Privacy Protection for Consortium Blockchain based on Group Signature and CA Multi-party Authentication</a> (Application No. 2020112860748) 
+              <sub><strong>Patent 2</strong>: &nbsp;📜&nbsp;<a href="https://www.izhuanli.com/patentservice/CN202011286074.8.html" target="_blank">Privacy Protection for Consortium Blockchain based on Group Signature and CA Multi-party Authentication</a> (Application No. 2020112860748) 
          </div>
          <div>
-              🌐<sub><strong>Project 1</strong>: <a href="https://www.wetrustchain.com/" target="_blank">Market Supervision Chain</a>, Backend and Evidence Collection Development </sub>
+             <sub><strong>Project 1</strong>: 🌐&nbsp;<a href="https://www.wetrustchain.com/" target="_blank">Market Supervision Chain</a>, Backend and Evidence Collection Development </sub>
          </div>
          <div>
-              🌐<sub><strong>Project 2</strong>: <a href="https://mp.weixin.qq.com/s/Q_NAalSFYQX5B2HQZRcoVw" target="_blank">City Data · Trading Platform</a>, Frontend Development</sub>
+             <sub><strong>Project 2</strong>: 🌐&nbsp;<a href="https://mp.weixin.qq.com/s/Q_NAalSFYQX5B2HQZRcoVw" target="_blank">City Data · Trading Platform</a>, Frontend Development</sub>
          </div>
      </div>
 </div>
