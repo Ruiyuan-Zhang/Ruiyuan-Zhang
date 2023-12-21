@@ -1,4 +1,5 @@
-<html>
+
+
 <div align=center>
      <h1>Hi, I'm Ruiyuan Zhang. <img src="assets/zjz_1.jpg" align=right width="180px"/></h1>
      <div>
@@ -19,7 +20,6 @@
          </span>
      </div>
  </div>
-</html>
 <br>
 
 > Now, I am planning to apply for a CSC scholarship for my overseas education. Should you come across any appropriate opportunities, I would greatly appreciate it if you could contact me. [中文简历](README_zh.md).
@@ -106,12 +106,29 @@
 
 ## III. Internship Experience 
 
-- **[Hyperchain](https://www.hyperchain.cn/about/company)**, `Blockchain technology and application research`,  **Nov 2019 - Mar 2021** 🖥
-   - **Patent 1**: [A Trusted Permission Management System and Method for Consortium Blockchain](https://www.patent9.com/patent/202110017945.4.html) (Application No. 2021100179454) 📜
-   - **Patent 2**: [Privacy Protection Method for Consortium Blockchain based on Group Signature and CA Multi-party Authentication](https://www.izhuanli.com/patentservice/CN202011286074.8.html) (Application No. 2020112860748) 📜
-   - **supp 1**: [Market Supervision Chain](https://www.wetrustchain.com/), Backend and Evidence Collection Development 🌐
-   - **supp 2**: [City Data · Trading Platform](https://mp.weixin.qq.com/s/Q_NAalSFYQX5B2HQZRcoVw), Frontend Development 🌐
-     
+<div>
+     <div>
+          <strong>🙋‍♂️Interned at <a href="https://www.hyperchain.cn/" target="_blank">Hyperchain</a> for Blockchain technology and application research</strong>&nbsp;&nbsp;<sub>[From Nov 2019 to Mar 2021]</sub>
+          <a href="#" target="_blank">
+               <img src="https://github.com/Ruiyuan-Zhang/Ruiyuan-Zhang/assets/71813586/985ea0b0-839b-41f3-94c1-40d5732701d2" align="right" height="50px" />
+          </a>
+     </div>
+     <div>
+         <div>
+              📜<sub><strong>Patent 1</strong>: <a href="https://www.patent9.com/patent/202110017945.4.html" target="_blank">A Trusted Permission Management System and Method for Consortium Blockchain</a> (Application No. 2021100179454) </sub>
+         </div>
+         <div>
+              📜<sub><strong>Patent 2</strong>: <a href="https://www.izhuanli.com/patentservice/CN202011286074.8.html" target="_blank">Privacy Protection for Consortium Blockchain based on Group Signature and CA Multi-party Authentication</a> (Application No. 2020112860748) 
+         </div>
+         <div>
+              🌐<sub><strong>Project 1</strong>: <a href="https://www.wetrustchain.com/" target="_blank">Market Supervision Chain</a>, Backend and Evidence Collection Development </sub>
+         </div>
+         <div>
+              🌐<sub><strong>Project 2</strong>: <a href="https://mp.weixin.qq.com/s/Q_NAalSFYQX5B2HQZRcoVw" target="_blank">City Data · Trading Platform</a>, Frontend Development</sub>
+         </div>
+     </div>
+</div>
+               
 ## IV. Awards and Honors 
 
 | Level | Award/Honor | Year |
