@@ -133,18 +133,17 @@
 
 | Level | Award/Honor | Year |
 | :-: | :- | :-: |
-| CCF | [CCF Software Capability Certification - 380 pts](https://blog.csdn.net/qq_36160277/article/details/82751577) (School Rank 1/600, National Top 0.49%) 🏅 | 2018 |
-| University | Outstanding Graduate of Yanshan University 🏅 | 2020 |
-| National | National E-commerce Challenge, Second Prize 🥈 | 2018 |
-| National | [“Zhihu Cup” CCF Programming Contest, National Third Prize](https://www.sohu.com/a/272943716_661672) 🥉 | 2018 |
-| National | National Undergraduate Innovation supp, Excellent Completion (Leader) 👏 | 2017 |
-| National | ASC Student Supercomputer Challenge, Second Prize 🥈 | 2018 |
-| National | ACM ICPC Jiaozuo Station, Excellence Award 🏆 | 2018 |
-| National | [FinTechathon WeBank Tech Competition Top Ten](https://github.com/Ruiyuan-Zhang/baize) (Team Leader) 🔝 | 2021 |
-| Provincial | CCPC Provincial First Prize 🥇 | 2019 |
-| Provincial | Blue Bridge Cup, C/C++ Programming A Group Second Prize 🥈 | 2019 |
-| Provincial | Team Programming Ladder Match, Second Prize 🥈 | 2019 |
-
+| CCF | 🏅 [CCF Software Capability Certification - 380 pts](https://blog.csdn.net/qq_36160277/article/details/82751577) (School Rank 1/600, National Top 0.49%) | 2018 |
+| University | 🏅 Outstanding Graduate of Yanshan University | 2020 |
+| National | 🥈 National E-commerce Challenge, Second Prize | 2018 |
+| National | 🥉 [“Zhihu Cup” CCF Programming Contest, National Third Prize](https://www.sohu.com/a/272943716_661672) | 2018 |
+| National | 👏 National Undergraduate Innovation supp, Excellent Completion (Leader) | 2017 |
+| National | 🥈 ASC Student Supercomputer Challenge, Second Prize | 2018 |
+| National | 🏆 ACM ICPC Jiaozuo Station, Excellence Award | 2018 |
+| National | 🔝 [FinTechathon WeBank Tech Competition Top Ten](https://github.com/Ruiyuan-Zhang/baize) (Team Leader) | 2021 |
+| Provincial | 🥇 CCPC Provincial First Prize | 2019 |
+| Provincial | 🥈 Blue Bridge Cup, C/C++ Programming A Group Second Prize | 2019 |
+| Provincial | 🥈 Team Programming Ladder Match, Second Prize | 2019 |
 
 ## V. Others
 
