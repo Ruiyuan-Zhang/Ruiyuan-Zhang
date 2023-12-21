@@ -148,7 +148,7 @@
 ## V. Others
 
 - **Communist Party of China** - Probationary Member. Dedicated to the Party's leadership, patriotic, and committed to contributing to socialism. 🌟
-- **Interests and Sports** - Enjoys an active lifestyle. Achieved 4th place in 1000m at the 2021 Software College Sports Meeting 🏃, and 4th in the 2023 Computer Science College Alumni Association Badminton Team Competition 🏸. Regularly engages in fitness 💪.
-- **Student Union Involvement** - Active participation in student union and organized events during undergraduate and postgraduate studies, including the Computer Science College PhD Innovation Achievement Sharing Meeting 🎓.
+- **Interests and Sports** - Enjoys an [active lifestyle]((https://github.com/Ruiyuan-Zhang/Ruiyuan-Zhang/assets/71813586/4dfd7c01-2083-4a46-83be-330bf9b864da)). Achieved 4th place in 1000m at the 2021 Software College Sports Meeting 🏃, and 4th in the 2023 Computer Science College Alumni Association Badminton Team Competition 🏸. Regularly engages in [fitness](https://github.com/Ruiyuan-Zhang/Ruiyuan-Zhang/assets/71813586/95717fb5-f7de-4d1d-b0af-3ab5e878cda6) 💪.
+- **Student Union Involvement** - Active participation in student union during undergraduate and postgraduate studies🎓.
 
 ---
