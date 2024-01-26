@@ -61,7 +61,7 @@
                <sup><strong>Scalable Geometric Fracture Assembly via Co-creation Space among Assemblers</strong></sup><br>
                <sup>Ruiyuan Zhang, Jiaxiang Liu, Zexi Li, Hao Dong, Jie Fu, Chao Wu</sup><br>
                <sup>✅ AAAI Conference on Artificial Intelligence (AAAI) 2024</sup><br>
-               <sup><a href="https://arxiv.org/abs/2312.12340" target="_blank">paper</a> / <a href="https://github.com/Ruiyuan-Zhang/CCS" target="_blank">codes</a> / supp </sup>
+               <sup><a href="https://arxiv.org/abs/2312.12340" target="_blank">paper</a> / <a href="https://github.com/Ruiyuan-Zhang/CCS" target="_blank">codes</a> / <a href="https://arxiv.org/abs/2312.12340" target="_blank">supp</a> / <a href="https://www.bilibili.com/video/BV1YQ4y1c7DX" target="_blank">vedio</a>  </sup>
           </div>
      </div>
      <br>
