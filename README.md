@@ -72,7 +72,7 @@
           <div>
                <sup><strong>xxxx xxxx xxxx xxxx xxxx</strong></sup><br>
                <sup>Ruiyuan Zhang, Didi Zhu, Jiaxiang Liu, Jie Liu, Jie Fu, Yuchi Huo, Chao Wu</sup><br>
-               <sup>[🕒 Submited] The Conference on Computer Vision and Pattern Recognition (CVPR) 2024</sup><br>
+               <sup>[🕒 Submited] The European Conference on Computer Vision (ECCV) 2024</sup><br>
                <sup><a href="#" target="_blank">paper</a> / <a href="#" target="_blank">codes</a> / supp </sup>
           </div>
      </div>
@@ -84,19 +84,7 @@
           <div>
                <sup><strong>xxxx xxxx xxxx xxxx xxxx</strong></sup><br>
                <sup>Ruiyuan Zhang, Chao Wu</sup><br>
-               <sup>[🚧 Coding] The European Conference on Computer Vision (ECCV) 2024</sup><br>
-               <sup><a href="#" target="_blank">paper</a> / <a href="#" target="_blank">codes</a> / supp </sup>
-          </div>
-     </div>
-     <br>
-     <div>
-          <a href="#" target="_blank">
-               <img src="https://github.com/Ruiyuan-Zhang/Ruiyuan-Zhang/assets/71813586/843a5b1e-7c4c-48af-961a-e86336ceab03" align="left" height="90px" />
-          </a>
-          <div>
-               <sup><strong>xxxx xxxx xxxx xxxx xxxx</strong></sup><br>
-               <sup>Ruiyuan Zhang, Chao Wu</sup><br>
-               <sup>[🚧 Coding] The European Conference on Computer Vision (ECCV) 2024</sup><br>
+               <sup>[🚧 Coding] xxxx 2024</sup><br>
                <sup><a href="#" target="_blank">paper</a> / <a href="#" target="_blank">codes</a> / supp </sup>
           </div>
      </div>
