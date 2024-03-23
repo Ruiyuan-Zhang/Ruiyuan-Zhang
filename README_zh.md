@@ -49,8 +49,8 @@
      - 在这篇工作中，我们利用了Score Based方法，提高了拼装零件任务的多样性。我们的方法相较于其他的方法，能够更好地拼装出更加合理形状的物品。
 - AAAI2024(1作), Scalable Geometric Fracture Assembly via Co-creation Space among Assemblers
      - 在这篇工作中，我们致力于解决拼装零件任务中同时处理的零件数量变多的情况，我们采用了一个共享空间的认知科学理论来解决这一问题，取得了不错的效果。
-- 我们在CVPR 2024中提交了我们近期的工作。
-- 目前，我们仍致力于研究联邦学习和NeRF。正在进行2项工作，准备投递到ECCV 2024。
+- 我们在ECCV 2024中提交了我们近期的工作。
+- 目前，我们仍致力于研究联邦学习和NeRF。正在进行2项工作，准备投递。
 
 
 ## <img src="assets/tools-solid.svg" width="20px"> 曾获奖项及荣誉
