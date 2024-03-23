@@ -26,7 +26,7 @@
 
  ## <img src="assets/info-circle-solid.svg" width="20px"> 个人信息 
 
- - 男，1999年1月22号出生，来自河北省邢台市
+ - 男，1999年1月22号出生，河北邢台人，预备党员
  - 研究方向：[Part Assembly](https://proceedings.neurips.cc/paper/2020/file/45fbc6d3e05ebd93369ce542e8f2322d-Paper.pdf)，[Score-based Modeling](https://arxiv.org/abs/2011.13456)，[Shared Global Workspace](https://arxiv.org/abs/2103.01197)，[Modular Deep Learning](https://arxiv.org/abs/2302.11529), Blockchain
 
 ## <img src="assets/graduation-cap-solid.svg" width="20px"> 教育经历
@@ -71,7 +71,6 @@
 
 ## 其他
 
-- 目前我已成为发展对象，我坚决拥护党的领导，热爱我的国家，正在努力为新时代中国特色社会主义发展奉献自己一份力量
 - 热爱生活，喜欢运动（2021年软件学院运动会1000米第四名），有健身习惯但似乎没啥成果，爱好羽毛球（2023年计算机学院校友会羽毛球团体赛第四名，被大佬带的）
 - 本科及研究生期间，均有参加学生会并有组织活动经验，如计算机学院博士生创新成果分享会
 - 闲暇时间也会接一些网站开发的私活；有过合作创业经历，但未成功
