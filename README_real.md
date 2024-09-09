@@ -47,7 +47,7 @@
           </a>
           <div>
                <sup><strong>Score-PA: Score-based 3D Part Assembly</strong></sup><br>
-               <sup>Junfeng Cheng, Mingdong Wu, Ruiyuan Zhang, Guanqi Zhan, Chao Wu, Hao Dong</sup><br>
+               <sup>Junfeng Cheng, Mingdong Wu, <strong>Ruiyuan Zhang</strong>, Guanqi Zhan, Chao Wu, Hao Dong</sup><br>
                <sup>✅ The British Machine Vision Conference (BMVC) 2023</sup><br>
                <sup><a href="https://arxiv.org/abs/2309.04220" target="_blank">paper</a> / <a href="https://github.com/j-f-cheng/score-pa_score-based-3d-part-assembly" target="_blank">codes</a> / supp </sup>
           </div>
@@ -59,7 +59,7 @@
           </a>
           <div>
                <sup><strong>Scalable Geometric Fracture Assembly via Co-creation Space among Assemblers</strong></sup><br>
-               <sup>Ruiyuan Zhang, Jiaxiang Liu, Zexi Li, Hao Dong, Jie Fu, Chao Wu</sup><br>
+               <sup><strong>Ruiyuan Zhang</strong>, Jiaxiang Liu, Zexi Li, Hao Dong, Jie Fu, Chao Wu</sup><br>
                <sup>✅ AAAI Conference on Artificial Intelligence (AAAI) 2024</sup><br>
                <sup><a href="https://arxiv.org/abs/2312.12340" target="_blank">paper</a> / <a href="https://github.com/Ruiyuan-Zhang/CCS" target="_blank">codes</a> / <a href="https://arxiv.org/abs/2312.12340" target="_blank">supp</a> / <a href="https://www.bilibili.com/video/BV1YQ4y1c7DX" target="_blank">vedio</a>  </sup>
           </div>
@@ -71,8 +71,8 @@
           </a>
           <div>
                <sup><strong>xxxx xxxx xxxx xxxx xxxx</strong></sup><br>
-               <sup>Ruiyuan Zhang, Didi Zhu, Jiaxiang Liu, Jie Liu, Jie Fu, Yuchi Huo, Chao Wu</sup><br>
-               <sup>[🕒 Submited] The European Conference on Computer Vision (ECCV) 2024</sup><br>
+               <sup><strong>Ruiyuan Zhang</strong>, Didi Zhu, Jiaxiang Liu, Jie Liu, Jie Fu, Yuchi Huo, Chao Wu</sup><br>
+               <sup>[🕒 Under Review] AAAI Conference on Artificial Intelligence (AAAI) 2025</sup><br>
                <sup><a href="#" target="_blank">paper</a> / <a href="#" target="_blank">codes</a> / supp </sup>
           </div>
      </div>
@@ -83,8 +83,32 @@
           </a>
           <div>
                <sup><strong>xxxx xxxx xxxx xxxx xxxx</strong></sup><br>
-               <sup>Ruiyuan Zhang, Chao Wu</sup><br>
-               <sup>[🚧 Coding] xxxx 2024</sup><br>
+               <sup>Haoxi Zheng, <strong>Ruiyuan Zhang</strong>, Chuanwen Feng, Xike Xie</sup><br>
+               <sup>[🕒 Under Review] AAAI Conference on Artificial Intelligence (AAAI) 2025</sup><br>
+               <sup><a href="#" target="_blank">paper</a> / <a href="#" target="_blank">codes</a> / supp </sup>
+          </div>
+     </div>
+     <br>
+     <div>
+          <a href="#" target="_blank">
+               <img src="https://github.com/Ruiyuan-Zhang/Ruiyuan-Zhang/assets/71813586/843a5b1e-7c4c-48af-961a-e86336ceab03" align="left" height="90px" />
+          </a>
+          <div>
+               <sup><strong>xxxx xxxx xxxx xxxx xxxx</strong></sup><br>
+               <sup><strong>Ruiyuan Zhang</strong>, Yuyao Chen, Yuchi Huo, Jiaxiang Liu, Dianbing Xi, Jie Liu, Chao Wu</sup><br>
+               <sup>[🕒 Under Review] Asian Conference on Computer Vision(A) 2024</sup><br>
+               <sup><a href="#" target="_blank">paper</a> / <a href="#" target="_blank">codes</a> / supp </sup>
+          </div>
+     </div>
+     <br>
+     <div>
+          <a href="#" target="_blank">
+               <img src="https://github.com/Ruiyuan-Zhang/Ruiyuan-Zhang/assets/71813586/843a5b1e-7c4c-48af-961a-e86336ceab03" align="left" height="90px" />
+          </a>
+          <div>
+               <sup><strong>xxxx xxxx xxxx xxxx xxxx</strong></sup><br>
+               <sup><strong>Ruiyuan Zhang</strong>, Chao Wu</sup><br>
+               <sup>[🚧 Coding] The Thirteenth International Conference on Learning Representations(ICLR) 2025</sup><br>
                <sup><a href="#" target="_blank">paper</a> / <a href="#" target="_blank">codes</a> / supp </sup>
           </div>
      </div>
@@ -96,16 +120,28 @@
 
 <div>
      <div>
+          <strong>🙋‍♂️Interned at <a href="https://www.huawei.com" target="_blank">Huawei</a> for research, e.g., AIGC, Powernet</strong>&nbsp;&nbsp;<sub>[From Jun 2024 to Sep 2024]</sub>
+          <a href="#" target="_blank">
+               <img src="https://www-file.huawei.com/-/media/corporate/images/home/logo/huawei_logo.png" align="right" height="50px"/>
+          </a>
+     </div>
+     <div>
+          <sub><strong>Patent 1</strong>: 📜&nbsp; xxxxxxxx </sub>
+     </div>
+</div>
+<br/>
+<div>
+     <div>
           <strong>🙋‍♂️Interned at <a href="https://www.zhejianglab.cn/" target="_blank">Zhejiang Lab</a> for research, e.g., MoE, Text to 3D</strong>&nbsp;&nbsp;<sub>[From Jun 2023 to Jun 2024]</sub>
           <a href="#" target="_blank">
                <img src="assets/zhejiang-lab.png" align="right" height="50px"/>
           </a>
      </div>
      <div>
-          <sub><strong>Paper 1</strong>: 📜&nbsp; ECCV 2024 xxxxxxxx </sub>
+          <sub><strong>Paper 1</strong>: 📜&nbsp; AAAI 2025 xxxxxxxx </sub>
      </div>
      <div>
-          <sub><strong>Paper 2</strong>: 📜&nbsp; NeurIPS 2024 xxxxxxxx </sub>
+          <sub><strong>Paper 2</strong>: 📜&nbsp; ICLR 2025 xxxxxxxx </sub>
      </div>
 </div>
 <br/>
