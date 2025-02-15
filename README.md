@@ -38,8 +38,9 @@
 - **Bachelor in Software Engineering, Yanshan University**  
   Sep 2016 - Jul 2020 📘
 
-
 ## II. Research Achievements 
+> For latest publications, please refer to [my google scholar](https://scholar.google.com/citations?user=Vw5X8yEAAAAJ&hl=zh-CN).
+
 <div>
      <div>
           <a href="https://arxiv.org/abs/2309.04220" target="_blank">
@@ -61,7 +62,42 @@
                <sup><strong>Scalable Geometric Fracture Assembly via Co-creation Space among Assemblers</strong></sup><br>
                <sup>Ruiyuan Zhang, Jiaxiang Liu, Zexi Li, Hao Dong, Jie Fu, Chao Wu</sup><br>
                <sup>✅ AAAI Conference on Artificial Intelligence (AAAI) 2024</sup><br>
-               <sup><a href="https://arxiv.org/abs/2312.12340" target="_blank">paper</a> / <a href="https://github.com/Ruiyuan-Zhang/CCS" target="_blank">codes</a> / <a href="https://arxiv.org/abs/2312.12340" target="_blank">supp</a> / <a href="https://www.bilibili.com/video/BV1YQ4y1c7DX" target="_blank">vedio</a>  </sup>
+               <sup><a href="https://arxiv.org/abs/2312.12340" target="_blank">paper</a> / <a href="https://github.com/Ruiyuan-Zhang/CCS" target="_blank">codes</a> / <a href="https://arxiv.org/abs/2312.12340" target="_blank">supp</a> / <a href="https://www.bilibili.com/video/BV1YQ4y1c7DX" target="_blank">video</a>  </sup>
+          </div>
+     </div>
+     <br>
+     <div>
+          <a href="#" target="_blank">
+               <img src="https://github.com/Ruiyuan-Zhang/Ruiyuan-Zhang/assets/71813586/9b70018e-cfef-4019-92de-8f580e964903" align="left" height="90px" />
+          </a>
+          <div>
+               <sup><strong>KEM: SGW-based Multi-Task Learning in Vision Tasks</strong></sup><br>
+               <sup>Ruiyuan Zhang, Yuyao Chen, Jiaxiang Liu, Dianbing Xi, Yuchi Huo, Jie Liu, Chao Wu</sup><br>
+               <sup>✅ Asian Conference on Computer Vision (ACCV) 2024</sup><br>
+               <sup><a href="https://openaccess.thecvf.com/content/ACCV2024/papers/Zhang_KEM_SGW-based_Multi-Task_Learning_in_Vision_Tasks_ACCV_2024_paper.pdf" target="_blank">paper</a> / <a href="#" target="_blank">codes</a> / supp </sup>
+          </div>
+     </div>
+     <br>
+     <div>
+          <a href="https://arxiv.org/abs/2501.11231" target="_blank">
+               <img src="https://github.com/user-attachments/assets/1d36e04e-c9cf-4774-bc86-77295875249a" align="left" height="90px" />
+          </a>
+               <sup><strong>KPL: Training-Free Medical Knowledge Mining of Vision-Language Models</strong></sup><br>
+               <sup>Jiaxiang Liu, Tianxiang Hu, Jiawei Du, Ruiyuan Zhang, Joey Tianyi Zhou, Zuozhu Liu</sup><br>
+               <sup>✅ AAAI 2025 Oral</sup><br>
+               <sup><a href="https://arxiv.org/abs/2501.11231" target="_blank">paper</a> / <a href="#" target="_blank">codes</a> / supp </sup>
+          </div>
+     </div>
+     <br>
+     <div>
+          <a href="#" target="_blank">
+               <img src="https://github.com/Ruiyuan-Zhang/Ruiyuan-Zhang/assets/71813586/843a5b1e-7c4c-48af-961a-e86336ceab03" align="left" height="90px" />
+          </a>
+          <div>
+               <sup><strong>MultiBand: Multi-Task Song Generation with Personalized Prompt-Based Control</strong></sup><br>
+               <sup>Yu Zhang, Wenxiang Guo, Changhao Pan, Ruiqi Li, Zhiyuan Zhu, Rongjie Huang, Ruiyuan Zhang, Zhiqing Hong, Ziyue Jiang, Zhou Zhao</sup><br>
+               <sup>[🚧 In Progress] XXX 2025</sup><br>
+               <sup><a href="#" target="_blank">paper</a> / <a href="#" target="_blank">codes</a> / supp </sup>
           </div>
      </div>
      <br>
@@ -72,7 +108,7 @@
           <div>
                <sup><strong>xxxx xxxx xxxx xxxx xxxx</strong></sup><br>
                <sup>Ruiyuan Zhang, Didi Zhu, Jiaxiang Liu, Jie Liu, Jie Fu, Yuchi Huo, Chao Wu</sup><br>
-               <sup>[🕒 Submited] The European Conference on Computer Vision (ECCV) 2024</sup><br>
+               <sup>[🕒 Under Review] ECML-PKDD 2025</sup><br>
                <sup><a href="#" target="_blank">paper</a> / <a href="#" target="_blank">codes</a> / supp </sup>
           </div>
      </div>
@@ -84,12 +120,11 @@
           <div>
                <sup><strong>xxxx xxxx xxxx xxxx xxxx</strong></sup><br>
                <sup>Ruiyuan Zhang, Chao Wu</sup><br>
-               <sup>[🚧 Coding] xxxx 2024</sup><br>
+               <sup>[🚧 In Progress] xxxx 2025</sup><br>
                <sup><a href="#" target="_blank">paper</a> / <a href="#" target="_blank">codes</a> / supp </sup>
           </div>
      </div>
 </div>
-
 
 
 ## III. Internship Experience 
