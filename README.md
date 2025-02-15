@@ -22,7 +22,7 @@
  </div>
 <br>
 
-> Now, I am planning to apply for a CSC scholarship for my overseas education. Should you come across any appropriate opportunities, I would greatly appreciate it if you could contact me. [中文简历](README_zh.md).
+> Now, I am planning to find a job. Should you come across any appropriate opportunities, I would greatly appreciate it if you could contact me.
 
 
 ## I. Education 
