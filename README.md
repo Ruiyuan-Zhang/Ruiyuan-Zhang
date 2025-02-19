@@ -53,7 +53,7 @@
                <a href="https://arxiv.org/abs/2309.04220" target="_blank">paper</a> / <a href="https://github.com/j-f-cheng/score-pa_score-based-3d-part-assembly" target="_blank">codes</a> / supp 
           </div>
      </div>
-     <br>
+     <br><br>
      <div>
           <a href="https://arxiv.org/abs/2312.12340" target="_blank">
                <img src="https://github.com/Ruiyuan-Zhang/Ruiyuan-Zhang/assets/71813586/b1b85281-8ed8-4b19-bbdb-e5f6dad186ee" align="left" height="110px" />
@@ -65,7 +65,7 @@
                <a href="https://arxiv.org/abs/2312.12340" target="_blank">paper</a> / <a href="https://github.com/Ruiyuan-Zhang/CCS" target="_blank">codes</a> / <a href="https://arxiv.org/abs/2312.12340" target="_blank">supp</a> / <a href="https://www.bilibili.com/video/BV1YQ4y1c7DX" target="_blank">video</a>  
           </div>
      </div>
-     <br>
+     <br><br>
      <div>
           <a href="#" target="_blank">
                <img src="https://github.com/Ruiyuan-Zhang/Ruiyuan-Zhang/assets/71813586/9b70018e-cfef-4019-92de-8f580e964903" align="left" height="110px" />
@@ -77,7 +77,7 @@
                <a href="https://openaccess.thecvf.com/content/ACCV2024/papers/Zhang_KEM_SGW-based_Multi-Task_Learning_in_Vision_Tasks_ACCV_2024_paper.pdf" target="_blank">paper</a> / <a href="#" target="_blank">codes</a> / supp 
           </div>
      </div>
-     <br>
+     <br><br>
      <div>
           <a href="https://arxiv.org/abs/2501.11231" target="_blank">
                <img src="https://github.com/user-attachments/assets/1d36e04e-c9cf-4774-bc86-77295875249a" align="left" height="110px" />
@@ -88,7 +88,7 @@
                <a href="https://arxiv.org/abs/2501.11231" target="_blank">paper</a> / <a href="#" target="_blank">codes</a> / supp 
           </div>
      </div>
-     <br>
+     <br><br>
      <div>
           <a href="#" target="_blank">
                <img src="https://github.com/Ruiyuan-Zhang/Ruiyuan-Zhang/assets/71813586/843a5b1e-7c4c-48af-961a-e86336ceab03" align="left" height="110px" />
@@ -100,7 +100,7 @@
                <a href="#" target="_blank">paper</a> / <a href="#" target="_blank">codes</a> / supp 
           </div>
      </div>
-     <br>
+     <br><br>
      <div>
           <a href="#" target="_blank">
                <img src="https://github.com/Ruiyuan-Zhang/Ruiyuan-Zhang/assets/71813586/843a5b1e-7c4c-48af-961a-e86336ceab03" align="left" height="110px" />
@@ -112,7 +112,7 @@
                <a href="#" target="_blank">paper</a> / <a href="#" target="_blank">codes</a> / supp 
           </div>
      </div>
-     <br>
+     <br><br>
      <div>
           <a href="#" target="_blank">
                <img src="https://github.com/Ruiyuan-Zhang/Ruiyuan-Zhang/assets/71813586/843a5b1e-7c4c-48af-961a-e86336ceab03" align="left" height="110px" />
