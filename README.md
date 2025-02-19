@@ -44,84 +44,84 @@
 <div>
      <div>
           <a href="https://arxiv.org/abs/2309.04220" target="_blank">
-               <img src="https://github.com/Ruiyuan-Zhang/Ruiyuan-Zhang/assets/71813586/4b71b676-45fd-4371-bfdc-ae892260efbe" align="left" height="90px" />
+               <img src="https://github.com/Ruiyuan-Zhang/Ruiyuan-Zhang/assets/71813586/4b71b676-45fd-4371-bfdc-ae892260efbe" align="left" height="110px" />
           </a>
           <div>
-               <sup><strong>Score-PA: Score-based 3D Part Assembly</strong></sup><br>
-               <sup>Junfeng Cheng, Mingdong Wu, Ruiyuan Zhang, Guanqi Zhan, Chao Wu, Hao Dong</sup><br>
-               <sup>✅ The British Machine Vision Conference (BMVC) 2023</sup><br>
-               <sup><a href="https://arxiv.org/abs/2309.04220" target="_blank">paper</a> / <a href="https://github.com/j-f-cheng/score-pa_score-based-3d-part-assembly" target="_blank">codes</a> / supp </sup>
+               <strong>Score-PA: Score-based 3D Part Assembly</strong><br>
+               Junfeng Cheng, Mingdong Wu, Ruiyuan Zhang, Guanqi Zhan, Chao Wu, Hao Dong<br>
+               ✅ The British Machine Vision Conference (BMVC) 2023<br>
+               <a href="https://arxiv.org/abs/2309.04220" target="_blank">paper</a> / <a href="https://github.com/j-f-cheng/score-pa_score-based-3d-part-assembly" target="_blank">codes</a> / supp 
           </div>
      </div>
      <br>
      <div>
           <a href="https://arxiv.org/abs/2312.12340" target="_blank">
-               <img src="https://github.com/Ruiyuan-Zhang/Ruiyuan-Zhang/assets/71813586/b1b85281-8ed8-4b19-bbdb-e5f6dad186ee" align="left" height="90px" />
+               <img src="https://github.com/Ruiyuan-Zhang/Ruiyuan-Zhang/assets/71813586/b1b85281-8ed8-4b19-bbdb-e5f6dad186ee" align="left" height="110px" />
           </a>
           <div>
-               <sup><strong>Scalable Geometric Fracture Assembly via Co-creation Space among Assemblers</strong></sup><br>
-               <sup>Ruiyuan Zhang, Jiaxiang Liu, Zexi Li, Hao Dong, Jie Fu, Chao Wu</sup><br>
-               <sup>✅ AAAI Conference on Artificial Intelligence (AAAI) 2024</sup><br>
-               <sup><a href="https://arxiv.org/abs/2312.12340" target="_blank">paper</a> / <a href="https://github.com/Ruiyuan-Zhang/CCS" target="_blank">codes</a> / <a href="https://arxiv.org/abs/2312.12340" target="_blank">supp</a> / <a href="https://www.bilibili.com/video/BV1YQ4y1c7DX" target="_blank">video</a>  </sup>
+               <strong>Scalable Geometric Fracture Assembly via Co-creation Space among Assemblers</strong><br>
+               Ruiyuan Zhang, Jiaxiang Liu, Zexi Li, Hao Dong, Jie Fu, Chao Wu<br>
+               ✅ AAAI Conference on Artificial Intelligence (AAAI) 2024<br>
+               <a href="https://arxiv.org/abs/2312.12340" target="_blank">paper</a> / <a href="https://github.com/Ruiyuan-Zhang/CCS" target="_blank">codes</a> / <a href="https://arxiv.org/abs/2312.12340" target="_blank">supp</a> / <a href="https://www.bilibili.com/video/BV1YQ4y1c7DX" target="_blank">video</a>  
           </div>
      </div>
      <br>
      <div>
           <a href="#" target="_blank">
-               <img src="https://github.com/Ruiyuan-Zhang/Ruiyuan-Zhang/assets/71813586/9b70018e-cfef-4019-92de-8f580e964903" align="left" height="90px" />
+               <img src="https://github.com/Ruiyuan-Zhang/Ruiyuan-Zhang/assets/71813586/9b70018e-cfef-4019-92de-8f580e964903" align="left" height="110px" />
           </a>
           <div>
-               <sup><strong>KEM: SGW-based Multi-Task Learning in Vision Tasks</strong></sup><br>
-               <sup>Ruiyuan Zhang, Yuyao Chen, Jiaxiang Liu, Dianbing Xi, Yuchi Huo, Jie Liu, Chao Wu</sup><br>
-               <sup>✅ Asian Conference on Computer Vision (ACCV) 2024</sup><br>
-               <sup><a href="https://openaccess.thecvf.com/content/ACCV2024/papers/Zhang_KEM_SGW-based_Multi-Task_Learning_in_Vision_Tasks_ACCV_2024_paper.pdf" target="_blank">paper</a> / <a href="#" target="_blank">codes</a> / supp </sup>
+               <strong>KEM: SGW-based Multi-Task Learning in Vision Tasks</strong><br>
+               Ruiyuan Zhang, Yuyao Chen, Jiaxiang Liu, Dianbing Xi, Yuchi Huo, Jie Liu, Chao Wu<br>
+               ✅ Asian Conference on Computer Vision (ACCV) 2024<br>
+               <a href="https://openaccess.thecvf.com/content/ACCV2024/papers/Zhang_KEM_SGW-based_Multi-Task_Learning_in_Vision_Tasks_ACCV_2024_paper.pdf" target="_blank">paper</a> / <a href="#" target="_blank">codes</a> / supp 
           </div>
      </div>
      <br>
      <div>
           <a href="https://arxiv.org/abs/2501.11231" target="_blank">
-               <img src="https://github.com/user-attachments/assets/1d36e04e-c9cf-4774-bc86-77295875249a" align="left" height="90px" />
+               <img src="https://github.com/user-attachments/assets/1d36e04e-c9cf-4774-bc86-77295875249a" align="left" height="110px" />
           </a>
-               <sup><strong>KPL: Training-Free Medical Knowledge Mining of Vision-Language Models</strong></sup><br>
-               <sup>Jiaxiang Liu, Tianxiang Hu, Jiawei Du, Ruiyuan Zhang, Joey Tianyi Zhou, Zuozhu Liu</sup><br>
-               <sup>✅ AAAI 2025 Oral</sup><br>
-               <sup><a href="https://arxiv.org/abs/2501.11231" target="_blank">paper</a> / <a href="#" target="_blank">codes</a> / supp </sup>
+               <strong>KPL: Training-Free Medical Knowledge Mining of Vision-Language Models</strong><br>
+               Jiaxiang Liu, Tianxiang Hu, Jiawei Du, Ruiyuan Zhang, Joey Tianyi Zhou, Zuozhu Liu<br>
+               ✅ AAAI 2025 Oral<br>
+               <a href="https://arxiv.org/abs/2501.11231" target="_blank">paper</a> / <a href="#" target="_blank">codes</a> / supp 
           </div>
      </div>
      <br>
      <div>
           <a href="#" target="_blank">
-               <img src="https://github.com/Ruiyuan-Zhang/Ruiyuan-Zhang/assets/71813586/843a5b1e-7c4c-48af-961a-e86336ceab03" align="left" height="90px" />
+               <img src="https://github.com/Ruiyuan-Zhang/Ruiyuan-Zhang/assets/71813586/843a5b1e-7c4c-48af-961a-e86336ceab03" align="left" height="110px" />
           </a>
           <div>
-               <sup><strong>MultiBand: Multi-Task Song Generation with Personalized Prompt-Based Control</strong></sup><br>
-               <sup>Yu Zhang, Wenxiang Guo, Changhao Pan, Ruiqi Li, Zhiyuan Zhu, Rongjie Huang, Ruiyuan Zhang, Zhiqing Hong, Ziyue Jiang, Zhou Zhao</sup><br>
-               <sup>[🚧 In Progress] XXX 2025</sup><br>
-               <sup><a href="#" target="_blank">paper</a> / <a href="#" target="_blank">codes</a> / supp </sup>
+               <strong>MultiBand: Multi-Task Song Generation with Personalized Prompt-Based Control</strong><br>
+               Yu Zhang, Wenxiang Guo, Changhao Pan, Ruiqi Li, Zhiyuan Zhu, Rongjie Huang, Ruiyuan Zhang, Zhiqing Hong, Ziyue Jiang, Zhou Zhao<br>
+               [🚧 In Progress] XXX 2025<br>
+               <a href="#" target="_blank">paper</a> / <a href="#" target="_blank">codes</a> / supp 
           </div>
      </div>
      <br>
      <div>
           <a href="#" target="_blank">
-               <img src="https://github.com/Ruiyuan-Zhang/Ruiyuan-Zhang/assets/71813586/843a5b1e-7c4c-48af-961a-e86336ceab03" align="left" height="90px" />
+               <img src="https://github.com/Ruiyuan-Zhang/Ruiyuan-Zhang/assets/71813586/843a5b1e-7c4c-48af-961a-e86336ceab03" align="left" height="110px" />
           </a>
           <div>
-               <sup><strong>xxxx xxxx xxxx xxxx xxxx</strong></sup><br>
-               <sup>Ruiyuan Zhang, Didi Zhu, Jiaxiang Liu, Jie Liu, Jie Fu, Yuchi Huo, Chao Wu</sup><br>
-               <sup>[🕒 Under Review] ECML-PKDD 2025</sup><br>
-               <sup><a href="#" target="_blank">paper</a> / <a href="#" target="_blank">codes</a> / supp </sup>
+               <strong>xxxx xxxx xxxx xxxx xxxx</strong><br>
+               Ruiyuan Zhang, Didi Zhu, Jiaxiang Liu, Jie Liu, Jie Fu, Yuchi Huo, Chao Wu<br>
+               [🕒 Under Review] ECML-PKDD 2025<br>
+               <a href="#" target="_blank">paper</a> / <a href="#" target="_blank">codes</a> / supp 
           </div>
      </div>
      <br>
      <div>
           <a href="#" target="_blank">
-               <img src="https://github.com/Ruiyuan-Zhang/Ruiyuan-Zhang/assets/71813586/843a5b1e-7c4c-48af-961a-e86336ceab03" align="left" height="90px" />
+               <img src="https://github.com/Ruiyuan-Zhang/Ruiyuan-Zhang/assets/71813586/843a5b1e-7c4c-48af-961a-e86336ceab03" align="left" height="110px" />
           </a>
           <div>
-               <sup><strong>xxxx xxxx xxxx xxxx xxxx</strong></sup><br>
-               <sup>Ruiyuan Zhang, Chao Wu</sup><br>
-               <sup>[🚧 In Progress] xxxx 2025</sup><br>
-               <sup><a href="#" target="_blank">paper</a> / <a href="#" target="_blank">codes</a> / supp </sup>
+               <strong>xxxx xxxx xxxx xxxx xxxx</strong><br>
+               Ruiyuan Zhang, Chao Wu<br>
+               [🚧 In Progress] xxxx 2025<br>
+               <a href="#" target="_blank">paper</a> / <a href="#" target="_blank">codes</a> / supp 
           </div>
      </div>
 </div>
